@@ -1,0 +1,18 @@
+# 僕達について
+
+ITで、函館の街の問題を解決したい。
+
+|名称|Code for Hakodate|
+|主な活動内容|函館の問題を解決するアプリ開発|
+|設立|2014年|
+|形態|非営利任意団体|
+|公式サイト|https://codeforhakodate.github.io|
+|Email|sugryo1109@gmail.com|
+|github|https://github.com/codeforhakodate|
+
+## 事務所
+|郵便番号|040-0011|
+|住所|北海道函館市本町25番13号五稜郭ビル7F|
+
+## 運営
+代表: 杉本 涼
