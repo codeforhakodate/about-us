@@ -2,6 +2,7 @@
 
 ITで、函館の街の問題を解決したい。
 
+|----|-----------------|
 |名称|Code for Hakodate|
 |主な活動内容|函館の問題を解決するアプリ開発|
 |設立|2014年|
@@ -9,6 +10,7 @@ ITで、函館の街の問題を解決したい。
 |公式サイト|https://codeforhakodate.github.io|
 |Email|sugryo1109@gmail.com|
 |github|https://github.com/codeforhakodate|
+|------|----------------------------------|
 
 ## 事務所
 |郵便番号|040-0011|
